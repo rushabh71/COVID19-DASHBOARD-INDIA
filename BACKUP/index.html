@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>COVID 19 Dashboard - India</title>
+	<link icon="stylesheet" type="image/png" sizes="32x32" href="coronavirus.png">
+
+</head>
+<body>
+
+	<script type="text/javascript">
+
+		function load_desktop() {
+			 window.location.replace("index_desktop.html");
+		}
+
+		function load_mobile() {
+			 window.location.replace("index_mobile.html");
+		}
+
+		if(screen.width<500){
+			load_mobile();
+		} else {
+			load_desktop();
+		}
+
+	</script>
+
+</body>
+
+</html>
