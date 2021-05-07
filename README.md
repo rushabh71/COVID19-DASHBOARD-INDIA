@@ -6,7 +6,7 @@ Author: Rushabh Patel
 
 Dashboard: 
 1. https://covid19-dashboard-india.000webhostapp.com/index.html
-2. https://public.tableau.com/views/COVID_FINAL/Home?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+2. https://public.tableau.com/views/COVID_DASHBOARD_16203580603930/Home?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 Data Sources:
 1. https://api.covid19india.org/
