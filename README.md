@@ -1,6 +1,6 @@
 # COVID19-DASHBOARD-INDIA
 
-A Covid 19 Dashboard showing all constantly changing critical parameters of India. 
+A Covid 19 dashboard showing all constantly changing critical parameters of India. 
 
 Author: Rushabh Patel
 
